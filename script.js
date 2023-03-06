@@ -31,7 +31,6 @@ let options = {
 //count
 let winCount = 0;
 let count = 0;
-
 let chosenWord = "";
 
 //Display option buttons
