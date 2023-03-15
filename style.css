@@ -1,9 +1,10 @@
+
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-}
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
 
 body {
   background-color: #DB7093;
@@ -25,7 +26,8 @@ body {
 #options-container {
   text-align: center;
 }
-#options-container div {
+#options-container div 
+{
   width: 100%;
   display: flex;
   justify-content: space-between;
