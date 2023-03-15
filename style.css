@@ -5,12 +5,12 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
   }
-
-body {
+body 
+{
   background-color: #DB7093;
 }
-
-.container {
+.container 
+{
   font-size: 16px;
   background-color: #ffffff;
   width: 90vw;
@@ -23,7 +23,8 @@ body {
   border-radius: 0.6em;
   box-shadow: 0 1.2em 2.4em rgba(111, 85, 0, 0.25);
 }
-#options-container {
+#options-container 
+{
   text-align: center;
 }
 #options-container div 
