@@ -1,4 +1,4 @@
-
+// Designing 
 * {
     padding: 0;
     margin: 0;
@@ -87,7 +87,6 @@ body
   flex-direction: column;
   border-radius: 0.6em;
 }
-
 #user-input-section 
 {
   display: flex;
@@ -95,27 +94,33 @@ body
   font-size: 1.8em;
   margin: 0.6em 0 1.2em 0;
 }
-canvas {
+canvas 
+{
   display: block;
   margin: auto;
   border: 10px solid #DB7093;
   border-radius: 10px;
 }
-.hide {
+.hide 
+{
   display: none;
 }
-#result-text h2 {
+#result-text h2 
+{
   font-size: 1.8em;
   text-align: center;
 }
-#result-text p {
+#result-text p 
+{
   font-size: 1.25em;
   margin: 1em 0 2em 0;
 }
-#result-text span {
+#result-text span 
+{
   font-weight: 600;
 }
-#new-game-button {
+#new-game-button 
+{
   font-size: 1.25em;
   padding: 0.5em 1em;
   background-color: #DB7093;
@@ -124,9 +129,11 @@ canvas {
   border-radius: 0.2em;
   cursor: pointer;
 }
-.win-msg {
+.win-msg 
+{
   color: #39d78d;
 }
-.lose-msg {
+.lose-msg 
+{
   color: #fe5152;
 }
