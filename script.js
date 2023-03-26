@@ -44,7 +44,6 @@ const displayOptions = () => {
 };
 
 //Block all the Buttons
-
 const blocker = () => {
   let optionsButtons = document.querySelectorAll(".options");
   let letterButtons = document.querySelectorAll(".letters");
