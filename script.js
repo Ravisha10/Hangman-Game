@@ -9,6 +9,7 @@ const canvas = document.getElementById("canvas");
 const resultText = document.getElementById("result-text");
 
 //Options values for buttons
+
 let options = {
   fruits: [
     "Apple",
