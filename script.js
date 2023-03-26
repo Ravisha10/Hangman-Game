@@ -60,6 +60,7 @@ const blocker = () => {
 };
 
 //Word Generator
+
 const generateWord = (optionValue) => {
   let optionsButtons = document.querySelectorAll(".options");
   //If optionValur matches the button innerText then highlight the button
