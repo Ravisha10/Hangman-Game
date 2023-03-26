@@ -8,7 +8,6 @@ const canvas = document.getElementById("canvas");
 const resultText = document.getElementById("result-text");
 
 //Options values for buttons
-// add values
 let options = {
   fruits: [
     "Apple",
